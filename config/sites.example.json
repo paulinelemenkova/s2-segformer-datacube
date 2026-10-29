@@ -1,0 +1,14 @@
+{
+  "crs": "EPSG:XXXXX",
+  "sites": {
+    "site_a": [0.0, 0.0, 0.0, 0.0],
+    "site_b": [0.0, 0.0, 0.0, 0.0]
+  },
+  "offset_box": [0.0, 0.0, 0.0, 0.0],
+  "window": [0.0, 0.0, 0.0, 0.0],
+  "jrc_tiles": ["XXE_YYN"],
+  "tiles": ["ZZ/B/SQ"],
+  "reference_scenes": ["S2X_ZZBSQ_YYYYMMDD_V_L2A"],
+  "map_scenes": ["S2X_ZZBSQ_YYYYMMDD_V_L2A"],
+  "perennial": ["site_a"]
+}

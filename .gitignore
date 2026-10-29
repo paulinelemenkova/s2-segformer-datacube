@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+work/
+config/sites.json
+config/scenes.json
+config/points.csv
+*.npz
+*.pt
+*.tif
+*.nc
